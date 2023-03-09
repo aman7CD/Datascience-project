@@ -1,6 +1,6 @@
 # Datascience-project
 ## About the Project
-SpaceX is a revolutionary company who has disrupted the space industry by offering rocket launches specifically Falcon 9 as low as 62 million dollars; while other provider charge approximately 165 million dollar each for such launch. Most of this saving comes from the astounding idea to reuse the first stage of the launch by re-landing the rocket, to use that for the next mission. Repeating this process will make the price down even further. So the goal of this project is to create a machine learning pipeline to predict the landing outcome of the first stage for future launches.This project is crucial in identifying the right price to bid against SpaceX for a rocketlaunch.
+SpaceX is a revolutionary company who has disrupted the space industry by offering rocket launches specifically Falcon 9 as low as 62 million dollars; while other providers charge approximately 165 million dollars per launch. Most of this saving comes from the astounding idea to reuse the first stage of the launch by re-landing the rocket, and to use that rocket for the next mission. Repeating this process will make the price down even further. So the goal of this project is to create a machine learning pipeline to predict the landing outcome of the first stage for future launches.
 
 ### The problems included:
 ##### • Identifying all factors that influence the landing outcome.
